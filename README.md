@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edem-Tengey
-- 👀 I’m interested in Programming(Web Development and Web 3(Blockchain)Development)
-- 🌱 I’m currently learning Mobile Development and DevOpS
+- 👀 I’m interested in Programming(AI and Machine Learning)
+- 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me tengeye09@gmail.com
 
