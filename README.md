@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edem-Tengey
 - 👀 I’m interested in Programming(AI and Machine Learning)
 - 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I’m looking to collaborate on Web Development 
+- 💞️ I’m looking to collaborate on AI and Machnine Learning 
 - 📫 How to reach me tengeye09@gmail.com
 
 <!---
